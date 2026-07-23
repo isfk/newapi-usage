@@ -3,7 +3,7 @@
 Multi-site NewAPI + Sub2API usage monitor for Muxy. Track NewAPI balance,
 consumption, and Sub2API remaining balance/status from one status bar item.
 
-![Screenshot](./src/assets/screenshot.png)
+![Screenshot](./src/assets/screenshot-1.png)
 
 ## Features
 
